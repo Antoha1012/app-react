@@ -1,0 +1,20 @@
+.walkaboutOldSchool {
+  height: 50px;
+  width: 50px;
+  background-color: aqua;
+  animation: slide-margin 10s linear infinite;
+}
+
+@keyframes slide-margin {
+  from {
+    margin-left: 0;
+  }
+
+  50% {
+    margin-left: 100%;
+  }
+
+  to {
+    margin-left: 0;
+  }
+}

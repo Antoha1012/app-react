@@ -1,0 +1,4 @@
+export const GET_POSTS_REQUEST = "GET_POSTS_REQUEST";
+export const GET_POSTS_SUCCESS = "GET_POSTS_SUCCESS";
+export const EDIT_POST = "EDIT_POST";
+export const REMOVE_POST = "REMOVE_POST";
