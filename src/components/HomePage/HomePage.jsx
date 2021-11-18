@@ -1,5 +1,5 @@
 const HomePage = () => {
-  return <div>Netlify</div>;
+  return <div>Netlify test</div>;
 };
 
 export default HomePage;
